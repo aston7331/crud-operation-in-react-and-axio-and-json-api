@@ -1,0 +1,39 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "stuname": "Daren",
+      "email": "daren@appwrk.com"
+    },
+    {
+      "id": 2,
+      "stuname": "Phil",
+      "email": "phil@appwrk.com"
+    },
+    {
+      "id": 3,
+      "stuname": "Aston",
+      "email": "aston@appwrk.com"
+    },
+    {
+      "stuname": "Donald",
+      "email": "donald@appwrk.com",
+      "id": 4
+    },
+    {
+      "stuname": "Sandy",
+      "email": "sandy@appwrk.com",
+      "id": 5
+    },
+    {
+      "stuname": "Arison",
+      "email": "arison@appwrk.com",
+      "id": 6
+    },
+    {
+      "stuname": "Greg",
+      "email": "greg@appwrk.com",
+      "id": 7
+    }
+  ]
+}
